@@ -1,4 +1,7 @@
-﻿using Microsoft.SqlServer.Dac.Model;
+// Copyright (c) Microsoft Corporation.
+// Licensed under the MIT License.
+
+using Microsoft.SqlServer.Dac.Model;
 using Microsoft.SqlServer.Dac;
 using System.CommandLine;
 
